@@ -33,6 +33,12 @@
         "categories": {
             "auth": {
                 "amplifyapp5d87c524": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2tbhvvfn4byx4",
+                    "type": "cicd"
+                }
             }
         }
     }
